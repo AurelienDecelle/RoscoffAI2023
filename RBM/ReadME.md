@@ -1,4 +1,4 @@
-# Notebooks for GMM
+# Notebooks for RBM
 
 References:
   * [Hinton](https://www.science.org/doi/abs/10.1126/science.1127647?casa_token=ZOyMkn7CQB0AAAAA:G0hMHEdO0kKSRFUR3HKgCskwT_Q1IvDhJd4YxonVFGTeRzhyc-tMeUWKBq3Q8BoU8RvnmpnJAPtaTw)
