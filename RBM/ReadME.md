@@ -5,4 +5,5 @@ References:
   * [Lecture note](https://www.sciencedirect.com/science/article/pii/S0378437122007129)
   * [Decelle et al.](https://iopscience.iop.org/article/10.1088/1674-1056/abd160/pdf)
   
+  ![Alt Text](MNIST.gif)
   ![Alt Text](https://raw.githubusercontent.com/AurelienDecelle/TorchRBM/main/FacesBW.gif)
